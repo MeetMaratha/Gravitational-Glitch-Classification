@@ -3,21 +3,26 @@ The data provided contains information about the type of gravitational glitch a 
 #### Requirement to run IPYNB File
 For running the ipynb file you will need to create a folder system in the folder containing IPYNB file
 <ul>
-  <ul> Models
-    <ul> Bagging Classifier
+  <li> <ul>Models
+    <li> <ul>Bagging Classifier
       <li> Normal
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
-    <ul> Random Forest
+      </ul>
+    <li> <ul> Random Forest
       <li> Normal
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
-    <ul> Support Vector Machines
+      </ul>
+    <li> <ul> Support Vector Machines
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
+    </ul>
+  </ul>
+</ul>
 
 #### Required Python packages
 <ul>
