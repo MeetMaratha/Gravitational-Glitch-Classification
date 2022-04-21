@@ -9,16 +9,21 @@ For running the ipynb file you will need to create a folder system in the folder
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
-    <\ul>
     <ul> Random Forest
       <li> Normal
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
-    <\ul>
     <ul> Support Vector Machines
       <li> Quantile Transformer
       <li> Quantile Transformer Normal
       <li> Robust Scaler
-    <\ul>
-  <\ul>
+
+#### Required Python packages
+<ul>
+  <li> Numpy       == 1.22.2
+  <li> SKLearn     == 1.0.2
+  <li> Pandas      == 1.4.1
+  <li> Matplotlib  == 3.5.1
+  <li> Pickle      == 0.7.5
+  <li> Seaborn     == 0.11.2
